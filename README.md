@@ -1,1 +1,1 @@
-# holistic-evaluation-of-accommodation-price-dispersion-and-booking-timing
+# Holistic Evaluation of Accommodation Price Dispersion and Booking Timing 
